@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2946e7bb-0b97-476f-96b1-66cd4a940ce5)# CP372 Data Analytic Project : การวิเคราะห์ข้อมูลยอดขายวิดีโอเกมทั่วโลก
+# CP372 Data Analytic Project : การวิเคราะห์ข้อมูลยอดขายวิดีโอเกมทั่วโลก
 
 ---
 
