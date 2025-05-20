@@ -1,4 +1,4 @@
-# CP372 Data Analytic Project : การวิเคราะห์ข้อมูลยอดขายวิดีโอเกมทั่วโลก
+![image](https://github.com/user-attachments/assets/2946e7bb-0b97-476f-96b1-66cd4a940ce5)# CP372 Data Analytic Project : การวิเคราะห์ข้อมูลยอดขายวิดีโอเกมทั่วโลก
 
 ---
 
@@ -44,6 +44,15 @@
 ![image](https://github.com/user-attachments/assets/0c4ef0c7-8697-4c36-a9b5-0b379c298a49)
 ![image](https://github.com/user-attachments/assets/b8739379-0105-4c6e-a2c7-d23f4fb3dbd6)
 ![image](https://github.com/user-attachments/assets/1db15267-57ee-49db-8942-1954356759e6)
+
+---
+
+###In-Depth Analysis
+สร้าง Field ใหม่ชื่อ PlatformEra โดยใช้ Calculate Field เพื่อแยกช่วงของยุคสมัย
+
+![image](https://github.com/user-attachments/assets/345c0624-180b-4212-93cb-e4285631f8f6)
+
+
 ![image](https://github.com/user-attachments/assets/a2b1f725-1ff5-4adb-83ad-0881735e65a1)
 
 ---
