@@ -1,5 +1,7 @@
 # cp372-KBNS
 สรุปโครงการ
+
+แสดงแนวโน้มยอดขายรวมตามปีตั้งแต่ 1980 - 2020
 ![image](https://github.com/user-attachments/assets/9df9b793-d94a-45e9-95da-d56319e273cb)
 ![image](https://github.com/user-attachments/assets/06b38899-3919-40da-b471-3b9d02000ee3)
 ![image](https://github.com/user-attachments/assets/92bbd81a-10de-4f30-bdcf-784764395b1f)
