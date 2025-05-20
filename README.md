@@ -26,6 +26,8 @@
 ### Overview
 โครงการนี้เป็นโครงการการวิเคราะห์ข้อมูลยอดขายวิดีโอเกมทั่วโลก มีจุดประสงค์เพื่อให้ผู้จัดทำสามารถนำความรู้ที่ได้จากบทเรียนรายวิชา CP372 มาประยุกต์ใช้กับข้อมูลจริง ซึ่งสามารถฝึกทักษะการคิดวิเคราะห์ การนำเสนอผลลัพธ์ให้อยู่ในรูปแบบที่เข้าใจง่าย และนำไปใช้ประโยชน์ต่อในการทำงานด้านธุรกิจในภายภาคหน้าได้เช่นกัน
 
+ข้อมูลที่ใช้ : https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download
+
 เครื่องมือที่ใช้
 - Excel : การเตรียมข้อมูล เช่น การทำความสะอาดข้อมูล การจัดรูปแบบ และการจัดหมวดหมู่ข้อมูล
 - Tableau : วิเคราะห์และแสดงผลข้อมูลในรูปแบบภาพ (Visualization)
@@ -63,4 +65,9 @@
 ![image](https://github.com/user-attachments/assets/b2299f04-02b9-4656-bce2-6c60b8b05c42)
 ![image](https://github.com/user-attachments/assets/63df8136-26ed-4c46-b821-412eadefb563)
 ![image](https://github.com/user-attachments/assets/5eed8502-ecd8-4ed1-a23d-786c880353a7)
+
+Public Dashboard Link
+- Dashboard 1 : https://public.tableau.com/app/profile/nutnaree.suktad/viz/Project_109_415/Dashboard1?publish=yes
+- Dashboard 2 : https://public.tableau.com/app/profile/nutnaree.suktad/viz/Project_109_415/Dashboard2?publish=yes
+
 
