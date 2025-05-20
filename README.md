@@ -3,7 +3,7 @@
 ---
 
 จัดทำโดย
-1. นางสาวกัลย์สุดา บัวตูม 65102010114
+1. นางสาวกัลย์สุดา บัวตูม 65102010109
 2. นางสาวณัฐนรี ศุขทัตน์ 65102010415
 
 เสนอ : อาจารย์ ผศ.ดร. รัตน์ชัยนันท์ ธรรมสุจริต
@@ -54,6 +54,10 @@
 
 ![image](https://github.com/user-attachments/assets/345c0624-180b-4212-93cb-e4285631f8f6)
 
+![image](https://github.com/user-attachments/assets/d74149ce-d021-419e-a2ff-fdc7beb84f2c)
+![image](https://github.com/user-attachments/assets/8a6992bd-9730-4adb-b1db-afd89fb82409)
+![image](https://github.com/user-attachments/assets/a2885132-8a12-4e50-a75d-897f13ff622b)
+![image](https://github.com/user-attachments/assets/f8ce141b-8e93-4997-9a8e-e8d1d3f3dd5f)
 
 ![image](https://github.com/user-attachments/assets/a2b1f725-1ff5-4adb-83ad-0881735e65a1)
 
