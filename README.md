@@ -47,7 +47,7 @@
 
 ---
 
-###In-Depth Analysis
+### In-Depth Analysis
 สร้าง Field ใหม่ชื่อ PlatformEra โดยใช้ Calculate Field เพื่อแยกช่วงของยุคสมัย
 
 ![image](https://github.com/user-attachments/assets/345c0624-180b-4212-93cb-e4285631f8f6)
