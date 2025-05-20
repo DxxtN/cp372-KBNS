@@ -1,0 +1,3 @@
+Tableau Public Dashboard Link
+Dashboard 1 : https://public.tableau.com/app/profile/nutnaree.suktad/viz/Project_109_415/Dashboard1?publish=yes
+Dashboard 2 : https://public.tableau.com/app/profile/nutnaree.suktad/viz/Project_109_415/Dashboard2?publish=yes
