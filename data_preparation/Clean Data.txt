@@ -1,0 +1,29 @@
+Clean Data
+#ขั้นตอนการ clean data โดยใช้ Power Query ใน Excel
+
+#ลบคอลัมน์ Rank (Removed Rank)
+= Table.RemoveColumns(#"Changed Type",{"Rank"})
+
+#ลบแถวที่ข้อมูลซ้ำกัน (Removed Duplicates)
+= Table.Distinct(#"Removed Rank")
+
+#ลบแถวที่ไม่มีข้อมูล Year (Filtered Year)
+= Table.SelectRows(#"Removed Duplicates", each ([Year] <> null))
+
+#แทนที่ missing value ด้วย Unknown ในคอลัมน์ Genre (Replaced Genre)
+= Table.ReplaceValue(#"Filtered Year","","Unknown",Replacer.ReplaceValue,{"Genre"})
+
+#แทนที่ missing value ด้วย Unknown ในคอลัมน์ Publisher (Replaced Publisher)
+= Table.ReplaceValue(#"Replaced Genre","","Unknown",Replacer.ReplaceValue,{"Publisher"})
+
+#เพิ่มคอลัมน์ Row ID ด้วย Index (Added Row ID)
+= Table.AddIndexColumn(#"Replaced Publisher", "Index", 1, 1, Int64.Type)
+
+#จัดลำดับ column Row ID ใหม่ (Reordered Columns)
+= Table.ReorderColumns(#"Added Row ID",{"Index", "Name", "Platform", "Year", "Genre", "Publisher", "NA_Sales", "EU_Sales", "JP_Sales", "Other_Sales", "Global_Sales"})
+
+#เปลี่ยนชื่อคอลัมน์ ROW ID (Renamed Columns)
+= Table.RenameColumns(#"Reordered Columns",{{"Index", "Row ID"}})
+
+#สร้างฟิลด์ใหม่ ได้แก่ ยอดขายเฉลี่ย (Add Avg Sales)
+= Table.AddColumn(#"Renamed Columns", "Avg_Regional_Sales", each [Global_Sales] / 4)
