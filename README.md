@@ -14,6 +14,8 @@
 
 ทางคณะผู้จัดทำหวังว่าโครงการนี้จะเป็นประโยชน์ต่อผู้อ่านและนิสิตทุกท่าน ที่มีความสนใจหรือกำลังเรียนรู้ในด้าน Data Analytics และ Business Intelligence หากมีข้อผิดพลาดประการใด คณะผู้จัดทำ ขออภัยมา ณ ที่นี้
 
+Project Presentation Youtube Video Link : https://youtu.be/gDAhw_qcj8w
+
 ---
 
 ## สารบัญ
